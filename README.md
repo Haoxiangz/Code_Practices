@@ -1,3 +1,3 @@
 # Code_Practices
 
-Hello World!
+Processing projects that I did along with tutorials from CodingTrain!
