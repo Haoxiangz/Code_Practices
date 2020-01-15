@@ -2,7 +2,7 @@ ArrayList<star> s = new ArrayList();
 
 int num = 300;
 
-void setup(){ 
+void setup(){
    size(1600,1600);
    background(0);
    for(int i=0;i<num;i++){

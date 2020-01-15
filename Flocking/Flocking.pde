@@ -20,3 +20,4 @@ void draw(){
 void mousePressed(){
   flock.add(new boids(mouseX, mouseY));
 }
+
